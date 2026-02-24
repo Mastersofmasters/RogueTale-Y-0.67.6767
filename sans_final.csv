@@ -394,127 +394,58 @@ $Wait2,SET,LastDir,$Direction,,,,,,
 0,GasterBlaster	0	100	0	330	300	320	1.366	0.1;		
 0,GasterBlaster	0	100	0	330	300	330	1.366	0.1;		
 0,GasterBlaster,0,100,0,330,300,340,1.366,0.1;		
-1.24,GasterBlaster	0	100	0	330	300	350	1.366	0.1;		
-0.1,GasterBlaster	0	100	0	330	300	360	1.366	0.1;		
-0,GasterBlaster	0	100	0	330	300	370	1.366	0.1;		
-0.1,GasterBlaster	0	100	0	330	300	380	1.366	0.1;		
-0,GasterBlaster	0	100	0	330	300	390	1.366	0.1;		
-0.1,GasterBlaster	0	100	0	330	300	400	1.366	0.1;		
-0,GasterBlaster	0	100	0	330	300	410	1.366	0.1;		
-0.1,GasterBlaster	0	100	0	330	300	420	1.366	0.1;		
-0,GasterBlaster	0	100	0	330	300	430	1.366	0.1;	2	
-0.1,GasterBlaster	0	100	0	330	300	440	1.366	0.1;	2	
-0.1,GasterBlaster	0	100	0	330	300	450	1.366	0.1;	1	
-0,GasterBlaster	0.1	100	0	330	300	460	1.366	0.1;	1	
-0,GasterBlaster	0	100	0	330	300	470	1.366	0.1;	2	
-0.1,GasterBlaster	0	100	0	330	300	480	1.366	0.1;	2	
-0,GasterBlaster	0.1	100	0	330	300	490	1.366	0.1;	2	
-0,GasterBlaster	0	100	0	330	300	500	1.366	0.1;	2	
-0,GasterBlaster	0	100	0	330	300	510	1.366	0.1;	2	
-0,GasterBlaster	0	100	0	330	300	520	1.366	0.1;	2	
-0.1,GasterBlaster	0	100	0	330	300	530	1.366	0.1;	2	
-0,GasterBlaster	0	100	0	330	300	540	1.366	0.1;		
-0.1,GasterBlaster	0	100	0	330	300	550	1.366	0.1;		
-0,GasterBlaster	0	100	0	330	300	560	1.366	0.1;	2	
-0,GasterBlaster	0	100	0	330	300	570	1.366	0.1;	2	
-0,GasterBlaster	0	100	0	330	300	580	1.366	0.1;	2	
-0,GasterBlaster	0	100	0	330	300	590	1.366	0.1;	2	
-0,GasterBlaster	0	100	0	330	300	600	1.366	0.1;	2	
-1.24,GasterBlaster	0	100	0	330	300	610	1.366	0.1;	2	
-0.1,GasterBlaster	0	100	0	330	300	620	1.366	0.1;	2	
-0,GasterBlaster	0	100	0	330	300	630	1.366	0.1;	2	
-0.1,GasterBlaster	0	100	0	330	300	640	1.366	0.1;		
-0,GasterBlaster	0	100	0	330	300	650	1.366	0.1;		
-0.1,GasterBlaster	0	100	0	330	300	660	1.366	0.1;	1	
-0,GasterBlaster	0	100	0	330	300	670	1.366	0.1;	1	
-0.1,GasterBlaster	0	100	0	330	300	680	1.366	0.1;	1	
-0,GasterBlaster	0	100	0	330	300	690	1.366	0.1;	1	
-0.1,GasterBlaster	0	100	0	330	300	700	1.366	0.1;	1	
-0.1,GasterBlaster	0	100	0	330	300	710	1.366	0.1;	1	
-0,GasterBlaster	0.1	100	0	330	300	720	1.366	0.1;	1	
-0,GasterBlaster	0	100	0	330	300	730	1.366	0.1;	1	
-0.1,GasterBlaster	0	100	0	330	300	740	1.366	0.1;		
-0,GasterBlaster	0.1	100	0	330	300	750	1.366	0.1;		
-0,GasterBlaster	0	100	0	330	300	760	1.366	0.1;		
-0.1,GasterBlaster	0	100	0	330	300	770	1.366	0.1;		
-0,GasterBlaster	0	100	0	330	300	780	1.366	0.1;		
-0.1,GasterBlaster	0	100	0	330	300	790	1.366	0.1;	2	
-0,GasterBlaster	0	100	0	330	300	800	1.366	0.1;	2	
-0.1,GasterBlaster	0	100	0	330	300	810	1.366	0.1;	2	
-0,GasterBlaster	0	100	0	330	300	820	1.366	0.1;	2	
-0,GasterBlaster	0	100	0	330	300	830	1.366	0.1;	2	
-0,GasterBlaster	0	100	0	330	300	840	1.366	0.1;	2	
-0,GasterBlaster	0	100	0	330	300	850	1.366	0.1;	2	
-0,GasterBlaster	0	100	0	330	300	860	1.366	0.1;	2	
-0.1,GasterBlaster	0	100	0	330	300	100	1.366	0.1;		
-0,GasterBlaster	0	100	0	330	300	110	1.366	0.1;		
-0.1,GasterBlaster	0	100	0	330	300	120	1.366	0.1;		
-0,GasterBlaster	0	100	0	330	300	130	1.366	0.1;	1	
-0.1,GasterBlaster	0	100	0	330	300	140	1.366	0.1;	1	
-0,GasterBlaster	0	100	0	330	300	150	1.366	0.1;	1	
-0.1,GasterBlaster	0	100	0	330	300	160	1.366	0.1;	1	
-0	GasterBlaster	0	100	0	330	300	170	1.366	0.1;	1	
-0.1	GasterBlaster	0	100	0	330	300	180	1.366	0.1;	1	
-0.1	GasterBlaster	0	100	0	330	300	190	1.366	0.1;	1	
-0	GasterBlaster	0.1	100	0	330	300	200	1.366	0.1;		
-0	GasterBlaster	0	100	0	330	300	210	1.366	0.1;		
-0.1	GasterBlaster	0	100	0	330	300	220	1.366	0.1;		
-0	GasterBlaster	0.1	100	0	330	300	230	1.366	0.1;		
-0	GasterBlaster	0	100	0	330	300	240	1.366	0.1;		
-0.1	GasterBlaster	0	100	0	330	300	250	1.366	0.1;	1	
-0	GasterBlaster	0	100	0	330	300	260	1.366	0.1;	1	
-0.1	GasterBlaster	0	100	0	330	300	270	1.366	0.1;	1	
-0	GasterBlaster	0	100	0	330	300	280	1.366	0.1;	1	
-0.1	GasterBlaster	0	100	0	330	300	290	1.366	0.1;	1	
-0	GasterBlaster	0	100	0	330	300	300	1.366	0.1;	1	
-0	GasterBlaster	0	100	0	330	300	310	1.366	0.1;		
-0	GasterBlaster	0	100	0	330	300	320	1.366	0.1;		
-0	GasterBlaster	0	100	0	330	300	330	1.366	0.1;		
-0	GasterBlaster	0	100	0	330	300	340	1.366	0.1;		
-1.24	GasterBlaster	0	100	0	330	300	350	1.366	0.1;	2	
-0.1	GasterBlaster	0	100	0	330	300	360	1.366	0.1;	2	
-0	GasterBlaster	0	100	0	330	300	370	1.366	0.1;	2	
-0.1	GasterBlaster	0	100	0	330	300	380	1.366	0.1;	2	
-0	GasterBlaster	0	100	0	330	300	390	1.366	0.1;	2	
-0.1	GasterBlaster	0	100	0	330	300	400	1.366	0.1;	2	
-0	GasterBlaster	0	100	0	330	300	410	1.366	0.1;		
-0.1	GasterBlaster	0	100	0	330	300	420	1.366	0.1;		
-0	GasterBlaster	0	100	0	330	300	430	1.366	0.1;	1	
-0.1	GasterBlaster	0	100	0	330	300	440	1.366	0.1;	1	
-0.1	GasterBlaster	0	100	0	330	300	450	1.366	0.1;	1	
-0	GasterBlaster	0.1	100	0	330	300	460	1.366	0.1	1	
-0	GasterBlaster	0	100	0	330	300	470	1.366	0.1;	1	
-0.1	GasterBlaster	0	100	0	330	300	480	1.366	0.1;	1	
-0	GasterBlaster	0.1	100	0	330	300	490	1.366	0.1		
-0	GasterBlaster	0	100	0	330	300	500	1.366	0.1;		
-0.1	GasterBlaster	0	100	0	330	300	510	1.366	0.1;		
-0	GasterBlaster	0	100	0	330	300	520	1.366	0.1;		
-0.1	GasterBlaster	0	100	0	330	300	530	1.366	0.1;		
-0	GasterBlaster	0	100	0	330	300	540	1.366	0.1;		
-0.1	GasterBlaster	0	100	0	330	300	550	1.366	0.1;		
-0	GasterBlaster	0	100	0	330	300	560	1.366	0.1;		
-0	GasterBlaster	0	100	0	330	300	570	1.366	0.1;	1	
-0	GasterBlaster	0	100	0	330	300	580	1.366	0.1;	1	
-0	GasterBlaster	0	100	0	330	300	590	1.366	0.1;	1	
-0	GasterBlaster	0	100	0	330	300	600	1.366	0.1;	1	
-0	GasterBlaster	0	100	0	330	300	610	1.366	0.1;	1	
-0.1	GasterBlaster	0	100	0	330	300	620	1.366	0.1;		
-0	GasterBlaster	0	100	0	330	300	630	1.366	0.1;	2	
-0.1	GasterBlaster	0	100	0	330	300	640	1.366	0.1;	2	
-0	GasterBlaster	0	100	0	330	300	650	1.366	0.1;	2	
-0.1	GasterBlaster	0	100	0	330	300	660	1.366	0.1;	2	
-0	GasterBlaster	0	100	0	330	300	670	1.366	0.1;	2	
-0.1	GasterBlaster	0	100	0	330	300	680	1.366	0.1;		
-0	GasterBlaster	0	100	0	330	300	690	1.366	0.1;		
-0.1	GasterBlaster	0	100	0	330	300	700	1.366	0.1;		
-0.1	GasterBlaster	0	100	0	330	300	710	1.366	0.1;		
-0	GasterBlaster	0.1	100	0	330	300	720	1.366	0.1		
-0	GasterBlaster	0	100	0	330	300	730	1.366	0.1;		
-0.1	GasterBlaster	0	100	0	330	300	740	1.366	0.1;		
-0	GasterBlaster	0.1	100	0	330	300	750	1.366	0.1		
-0	GasterBlaster	0	100	0	330	300	760	1.366	0.1;		
-0.1	GasterBlaster	0	100	0	330	300	770	1.366	0.1;		
-0	GasterBlaster	0	100	0	330	300	780	1.366	0.1;	1	
-0.1,GasterBlaster,0,100,0	330,300,790,1.366	0.1;		
+1.24,GasterBlaster,0,100,0,330,300,350,1.366,0.1;
+0.1,GasterBlaster,0,100,0,330,300,360,1.366,0.1;
+0,GasterBlaster,0,100,0,330,300,370,1.366,0.1;
+0.1,GasterBlaster,0,100,0,330,300,380,1.366,0.1;
+0,GasterBlaster,0,100,0,330,300,390,1.366,0.1;
+0.1,GasterBlaster,0,100,0,330,300,400,1.366,0.1;
+0,GasterBlaster,0,100,0,330,300,410,1.366,0.1;
+0.1,GasterBlaster,0,100,0,330,300,420,1.366,0.1;
+0,GasterBlaster,0,100,0,330,300,430,1.366,0.1;,2
+0.1,GasterBlaster,0,100,0,330,300,440,1.366,0.1;,2
+0.1,GasterBlaster,0,100,0,330,300,450,1.366,0.1;,1
+0,GasterBlaster,0.1,100,0,330,300,460,1.366,0.1;,1
+0,GasterBlaster,0,100,0,330,300,470,1.366,0.1;,2
+0.1,GasterBlaster,0,100,0,330,300,480,1.366,0.1;,2
+0,GasterBlaster,0.1,100,0,330,300,490,1.366,0.1;,2
+0,GasterBlaster,0,100,0,330,300,500,1.366,0.1;,2
+0,GasterBlaster,0,100,0,330,300,510,1.366,0.1;,2
+0,GasterBlaster,0,100,0,330,300,520,1.366,0.1;,2
+0.1,GasterBlaster,0,100,0,330,300,530,1.366,0.1;,2
+0,GasterBlaster,0,100,0,330,300,540,1.366,0.1;
+0.1,GasterBlaster,0,100,0,330,300,550,1.366,0.1;
+0,GasterBlaster,0,100,0,330,300,560,1.366,0.1;,2
+0,GasterBlaster,0,100,0,330,300,570,1.366,0.1;,2
+0,GasterBlaster,0,100,0,330,300,580,1.366,0.1;,2
+0,GasterBlaster,0,100,0,330,300,590,1.366,0.1;,2
+0,GasterBlaster,0,100,0,330,300,600,1.366,0.1;,2
+1.24,GasterBlaster,0,100,0,330,300,610,1.366,0.1;,2
+0.1,GasterBlaster,0,100,0,330,300,620,1.366,0.1;,2
+0,GasterBlaster,0,100,0,330,300,630,1.366,0.1;,2
+0.1,GasterBlaster,0,100,0,330,300,640,1.366,0.1;
+0,GasterBlaster,0,100,0,330,300,650,1.366,0.1;
+0.1,GasterBlaster,0,100,0,330,300,660,1.366,0.1;,1
+0,GasterBlaster,0,100,0,330,300,670,1.366,0.1;,1
+0.1,GasterBlaster,0,100,0,330,300,680,1.366,0.1;,1
+0,GasterBlaster,0,100,0,330,300,690,1.366,0.1;,1
+0.1,GasterBlaster,0,100,0,330,300,700,1.366,0.1;,1
+0.1,GasterBlaster,0,100,0,330,300,710,1.366,0.1;,1
+0,GasterBlaster,0.1,100,0,330,300,720,1.366,0.1;,1
+0,GasterBlaster,0,100,0,330,300,730,1.366,0.1;,1
+0.1,GasterBlaster,0,100,0,330,300,740,1.366,0.1;
+0,GasterBlaster,0.1,100,0,330,300,750,1.366,0.1;
+0,GasterBlaster,0,100,0,330,300,760,1.366,0.1;
+0.1,GasterBlaster,0,100,0,330,300,770,1.366,0.1;
+0,GasterBlaster,0,100,0,330,300,780,1.366,0.1;
+0.1,GasterBlaster,0,100,0,330,300,790,1.366,0.1;,2
+0,GasterBlaster,0,100,0,330,300,800,1.366,0.1;,2
+0.1,GasterBlaster,0,100,0,330,300,810,1.366,0.1;,2
+0,GasterBlaster,0,100,0,330,300,820,1.366,0.1;,2
+0,GasterBlaster,0,100,0,330,300,830,1.366,0.1;,2
+0,GasterBlaster,0,100,0,330,300,840,1.366,0.1;,2
+0,GasterBlaster,0,100,0,330,300,850,1.366,0.1;,2
+0,GasterBlaster,0,100,0,330,300,860,1.366,0.1;,2
 
 10,endattack,,,,,,,,
+
