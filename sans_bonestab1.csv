@@ -3,7 +3,7 @@
 0,CombatZoneResizeInstant,280,210,370,290,,,
 0,HeartTeleport,325,250,,,,
 0,DamagePlayer,-74,,,,,,,,,
-0,SetMaxHp,20.5,
+0,SetMaxHp,20,
 0,HeartMode,5,,,,,,,
 0.3,BoneBulletV,1,90,,
 0.9,BoneBulletV,1,90,,
@@ -48,4 +48,5 @@
 0,BoneBulletV,3,90
 0,SetMaxHp,170,
 0.9,EndAttack,,,,,
+
 
