@@ -747,7 +747,7 @@
 0,heartmode,0,,,,,,,,,
 ,,,,,,,,,,,
 ,,,,,,,,,,,
-0,StopMusic,,,,,,,,,,
+
 0,SansHead,ClosedEyes,,,,,,,,,
 0,CombatZoneResizeInstant,120,251,520,391,,,,,,
 0,SetMaxHP,200,,,,,,,,,
@@ -761,6 +761,7 @@
 0,SansAnimation,Idle,,,,,,,,,
 0,DamagePlayer,-200,,,
 3,EndAttack,,
+
 
 
 
